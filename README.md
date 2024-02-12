@@ -1,18 +1,11 @@
 # NewsApp-React-Native-Mobile-App
 
-<div style="display: flex;">
-    <img src="![news3](https://github.com/Hashmu0786/News-App/assets/128887812/2f1d6dc1-a56b-4f5b-b096-4fd567c5aaf1)  
-" width="300" />
-    <img src="![news2](https://github.com/Hashmu0786/News-App/assets/128887812/e0a8974d-5d2b-4d47-99be-2197a02f22ef)  
-" width="300" />
-  <img src="![news1](https://github.com/Hashmu0786/News-App/assets/128887812/073d8544-8625-4941-867a-5716381863d0)
- 
-" width="300" />
-</div>
 
+![news3](https://github.com/Hashmu0786/News-App/assets/128887812/4de31bed-7854-4392-a757-dcb07231b533)
 
+![news2](https://github.com/Hashmu0786/News-App/assets/128887812/a557cc9f-16b6-495f-aa65-a434b371fc34)
 
-
+![news1](https://github.com/Hashmu0786/News-App/assets/128887812/1a7078be-a6d0-45b9-991c-ad026998f91a)
 
 ## Get Started
 
